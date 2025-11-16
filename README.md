@@ -1,0 +1,1 @@
+- Nếu set httpOnly = true thì client sẽ k truy cập được ( bằng cách gõ document.cookie là thấy )
